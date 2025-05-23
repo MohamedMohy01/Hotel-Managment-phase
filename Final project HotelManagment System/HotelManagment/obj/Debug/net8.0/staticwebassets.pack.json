@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelManagment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelManagment.c9fjmh9kyy.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\Hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotel.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\delux1.jpg",
+      "PackagePath": "staticwebassets\\images\\delux1.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\delux2.jpg",
+      "PackagePath": "staticwebassets\\images\\delux2.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\double.jpg",
+      "PackagePath": "staticwebassets\\images\\double.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\images\\single.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\standard.jpg",
+      "PackagePath": "staticwebassets\\images\\standard.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\images\\triple.jpg",
+      "PackagePath": "staticwebassets\\images\\triple.jpg"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\(Uneversity)\\CSE4\\Data Engeenirng\\project\\HotelManagment\\HotelManagment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelManagment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelManagment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelManagment.props",
+      "PackagePath": "build\\HotelManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelManagment.props",
+      "PackagePath": "buildMultiTargeting\\HotelManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelManagment.props",
+      "PackagePath": "buildTransitive\\HotelManagment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
