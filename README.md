@@ -9,7 +9,7 @@ Whether you run a small boutique hotel or a large chain, this platform provides 
 
 ### 🛏️ Room Management
 
-Real-time Room Status: Instantly view which rooms are available, occupied, reserved, or under maintenance.
+Real-time Room Status: Instantly view which rooms types, Price.
 
 Room Assignment: Assign guests to rooms with just a few clicks.
 
@@ -31,27 +31,8 @@ Multiple Payment Methods: Record payments via cash, card, or digital wallets.
 
 Invoice Management: Print or email invoices directly to guests.
 
-### 🧑‍💼 Staff Management
 
-Role-Based Access: Assign roles (Admin, Receptionist, Housekeeping, etc.) with custom permissions.
 
-Staff Directory: Manage staff details and activity logs.
-
-Task Assignment: Assign and track daily tasks for staff members.
-
-### 📋 Task & To-Do List
-
-Operational Tasks: Create, assign, and monitor housekeeping and maintenance tasks.
-
-Notifications: Get alerts for pending tasks and upcoming check-outs.
-
-### 📊 Reporting & Analytics
-
-Occupancy Reports: Visualize room occupancy and booking trends.
-
-Revenue Tracking: Monitor daily, weekly, and monthly earnings.
-
-Custom Reports: Export data for further analysis.
 
 ### 🛠️ Administration & Settings
 
